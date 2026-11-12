@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Record a 10–15 s screen capture of the demo (phone size) and save it as docs/demo.gif -->
-<img src="docs/demo.gif" alt="Unwrap demo" width="300" />
+<img src="docs/preview.png" alt="Unwrap story cards" width="100%" />
 
 # unwrap.
 
